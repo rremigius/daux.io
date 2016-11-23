@@ -1,10 +1,10 @@
 {
-    "docs_directory": "../src",
+    "docs_directory": "docs",
     "themes_directory": "themes",
 
-    "title": "InterActor",
-    "tagline": "InterActor Documentation",
-    "author": "Graphileon Team",
+    "title": "Documentation",
+    "tagline": "Awesome Documentation",
+    "author": "Me, Myself and I",
     "image": "",
     "languages": {},
 
@@ -49,5 +49,5 @@
         "delete": false
     },
 
-    "version": "1.0.1-148-gad77fcf"
+    "version": "1.0.0"
 }
