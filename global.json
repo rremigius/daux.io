@@ -1,5 +1,5 @@
 {
-    "docs_directory": "docs",
+    "docs_directory": "../src",
     "themes_directory": "themes",
 
     "title": "Documentation",
