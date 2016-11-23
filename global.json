@@ -1,10 +1,10 @@
 {
-    "docs_directory": "docs",
+    "docs_directory": "../src",
     "themes_directory": "themes",
 
-    "title": "My Project",
-    "tagline": "My Stylish Documentation",
-    "author": "I, Me & Myself",
+    "title": "InterActor",
+    "tagline": "InterActor Documentation",
+    "author": "Graphileon Team",
     "image": "",
     "languages": {},
 
@@ -16,7 +16,7 @@
         "folders": []
     },
 
-    "timezone": "America/Los_Angeles",
+    "timezone": "Europe/Amsterdam",
 
     "live": {
         "clean_urls": true
@@ -47,5 +47,7 @@
     "confluence": {
         "prefix": "",
         "delete": false
-    }
+    },
+
+    "version": "1.0.1-146-gda1fbb2"
 }

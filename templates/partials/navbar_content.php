@@ -1,4 +1,5 @@
 <a class="Navbar__brand" href="<?= $params['base_page'] . $params['index']->getUri(); ?>"><?= $params['title']; ?></a>
+<span class="Navbar__version"><?= $params['IA_VERSION']; ?></span>
 
 <?php if ($params['html']['search']) {
     ?>
